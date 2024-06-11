@@ -4,11 +4,11 @@ INTERSHIP DURATION: 1 MONTHS [1 June - 1 July]
 
 MODE: ONLINE
 
-LANGUAGES : HTML,CSS,JAVASCRIPT
+LANGUAGES : JAVA
 
 OFFER LETTER:-
 
-![OFFER LETTER](https://github.com/siddhant-gayakwad/Prodigy-InfoTech-/assets/101993978/06b4161d-c02b-4e2b-a3bc-4dbced38a7fc)
+![OFFER LETTER](https://github.com/siddhant-gayakwad/CognoRise-InfoTech/assets/101993978/1a4c07e3-4cce-4dd8-8205-3506b97a70f5)
 
 5 TASKS :-
 
